@@ -34,5 +34,7 @@
 - [Хаб карти повітряних тривог](https://alarm-map.sdl.pp.ua/make/)
 - [Телеграм канал](https://t.me/alarm_map)
 - [Служба підтримки](https://t.me/alarm_map_support)
+- [Підтримати проєкт](https://send.monobank.ua/jar/7AkWqvZKp1)
+
 
 
