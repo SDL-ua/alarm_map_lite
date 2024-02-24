@@ -27,7 +27,7 @@
 
 ## [Корпуси](https://alarm-map.sdl.pp.ua/make/body/)
 
-## [Схеми підключення](https://alarm-map.sdl.pp.ua/make/scheme.pdf?v=1)
+## [Схеми підключення](https://alarm-map.sdl.pp.ua/make/)
 
 
 
