@@ -11,10 +11,7 @@
 
 <img src="https://alarm-map.sdl.pp.ua/make/images/bodies.png" width="600"/>
 
-- [Залізо](#title2)
-- [Фішки](#title3)
-- [Корпуси](https://alarm-map.sdl.pp.ua/make/body/)
-- [Схеми підключення](https://alarm-map.sdl.pp.ua/make/scheme.pdf)
+
 
 ## <a id="title2">Залізо</a>
 - Мікроконтролер на базі ESP8266 або на базі ESP32
