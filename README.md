@@ -1,5 +1,7 @@
-[![Foo](https://img.shields.io/badge/SDL%20ALARM%20MAP-brightgreen.svg?logo=telegram&color=blue)](https://t.me/alarm_map)
-[![Foo](https://img.shields.io/badge/СЛУЖБА%20ПІДТРИМКИ-brightgreen.svg?logo=telegram&color=blue)](https://t.me/alarm_map_support)
+[![Foo](https://img.shields.io/badge/SDL%20ALARM%20MAP-brightgreen.svg?logo=telegram&color=white)](https://t.me/alarm_map)
+[![Foo](https://img.shields.io/badge/СЛУЖБА%20ПІДТРИМКИ-brightgreen.svg?logo=telegram&color=white)](https://t.me/alarm_map_support)
+[![Foo](https://img.shields.io/badge/БАНКА-brightgreen.svg?logo=GitHub-Sponsors&color=white)](https://send.monobank.ua/jar/7AkWqvZKp1)
+[![Foo](https://img.shields.io/badge/ХАБ%20КАРТИ%20ПОВІТРЯНИХ%20ТРИВОГ-brightgreen.svg?logo=GitHub-Sponsors&color=white)](https://alarm-map.sdl.pp.ua/make)
 
 # Lite прошивка для карти повітряних тривог
 Найпростіша прошивка для карти повітряних тривог. Мінімум бібліотек, мінімум коду.  
