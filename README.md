@@ -1,5 +1,5 @@
-[![Foo](https://img.shields.io/badge/SDL%20ALARM%20MAP%20brightgreen.svg?style=social&logo=telegram&color=blue)](https://t.me/alarm_map)
-[![Foo](https://img.shields.io/badge/СЛУЖБА%20ПІДТРИМКИ%20brightgreen.svg?style=social&logo=telegram&color=blue)](https://t.me/alarm_map)
+[![Foo](https://img.shields.io/badge/SDL%20ALARM%20MAP-brightgreen.svg?style=social&logo=telegram&color=blue)](https://t.me/alarm_map)
+[![Foo](https://img.shields.io/badge/СЛУЖБА%20ПІДТРИМКИ-brightgreen.svg?style=social&logo=telegram&color=blue)](https://t.me/alarm_map)
 
 # Lite прошивка для карти повітряних тривог
 Найпростіша прошивка для карти повітряних тривог. Мінімум бібліотек, мінімум коду.  
