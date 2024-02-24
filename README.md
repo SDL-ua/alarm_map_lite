@@ -7,6 +7,7 @@
 Найпростіша прошивка для карти повітряних тривог. Мінімум бібліотек, мінімум коду.  
 Інші прошивки можна знайти на [хабі карти повітряних тривог](https://alarm-map.sdl.pp.ua/make/)  
 
+===[ОНЛАЙН ЗАВАНТАЖУВАЧ](https://alarm-map.sdl.pp.ua/firmware/lite/)===  
 
 <img src="https://alarm-map.sdl.pp.ua/make/images/bodies.png" width="600"/>
 
