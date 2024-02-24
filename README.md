@@ -1,9 +1,9 @@
-# Lite прошивка для карти повітряних тривог
 [![Foo](https://img.shields.io/badge/SDL%20ALARM%20MAP-brightgreen.svg?logo=telegram&color=white)](https://t.me/alarm_map)
 [![Foo](https://img.shields.io/badge/СЛУЖБА%20ПІДТРИМКИ-brightgreen.svg?logo=telegram&color=white)](https://t.me/alarm_map_support)
 [![Foo](https://img.shields.io/badge/ХАБ%20КАРТИ%20ПОВІТРЯНИХ%20ТРИВОГ-brightgreen.svg?color=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSI0OHB4IiBoZWlnaHQ9IjQ4cHgiPjxwYXRoIGZpbGw9IiNFOEVBRjYiIGQ9Ik00MiAzOUw2IDM5IDYgMjMgMjQgNiA0MiAyM3oiLz48cGF0aCBmaWxsPSIjQzVDQUU5IiBkPSJNMzkgMjFMMzQgMTYgMzQgOSAzOSA5ek02IDM5SDQyVjQ0SDZ6Ii8+PHBhdGggZmlsbD0iI0I3MUMxQyIgZD0iTTI0IDQuM0w0IDIyLjkgNiAyNS4xIDI0IDguNCA0MiAyNS4xIDQ0IDIyLjl6Ii8+PHBhdGggZmlsbD0iI0Q4NDMxNSIgZD0iTTE4IDI4SDMwVjQ0SDE4eiIvPjxwYXRoIGZpbGw9IiMwMTU3OUIiIGQ9Ik0yMSAxN0gyN1YyM0gyMXoiLz48cGF0aCBmaWxsPSIjRkY4QTY1IiBkPSJNMjcuNSwzNS41Yy0wLjMsMC0wLjUsMC4yLTAuNSwwLjV2MmMwLDAuMywwLjIsMC41LDAuNSwwLjVTMjgsMzguMywyOCwzOHYtMkMyOCwzNS43LDI3LjgsMzUuNSwyNy41LDM1LjV6Ii8+PC9zdmc+)](https://alarm-map.sdl.pp.ua/make)
 [![Foo](https://img.shields.io/badge/ПІДТРИМАТИ-brightgreen.svg?logo=GitHub-Sponsors&color=white)](https://send.monobank.ua/jar/7AkWqvZKp1)
 
+# Lite прошивка для карти повітряних тривог
 Найпростіша прошивка для карти повітряних тривог. Мінімум бібліотек, мінімум коду.  
 Інші прошивки можна знайти на [хабі карти повітряних тривог](https://alarm-map.sdl.pp.ua/make/)  
 
