@@ -1,4 +1,5 @@
 [![Foo](https://img.shields.io/badge/SDL%20ALARM%20MAP-ПІДПИСАТИСЯ-brightgreen.svg?style=social&logo=telegram&color=blue)](https://t.me/alarm_map)
+[![Foo](https://img.shields.io/badge/СЛУЖБА%20ПІДТРИМКИ-ДОПОМОГА-brightgreen.svg?style=social&logo=telegram&color=blue)](https://t.me/alarm_map)
 
 # Lite прошивка для карти повітряних тривог
 Найпростіша прошивка для карти повітряних тривог. Мінімум бібліотек, мінімум коду.  
@@ -10,8 +11,8 @@
 
 - [Залізо](#title2)
 - [Фішки](#title3)
-- [Корпуси](#title4)
-- [Схеми підключення](#title5)
+- [Корпуси](https://alarm-map.sdl.pp.ua/make/body/)
+- [Схеми підключення](https://alarm-map.sdl.pp.ua/make/scheme.pdf)
 - [Корисні посилання](#title6)
 
 ## <a id="title2">Залізо</a>
