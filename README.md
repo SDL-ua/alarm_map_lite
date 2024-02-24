@@ -15,8 +15,8 @@
 - [Корисні посилання](#title6)
 
 ## <a id="title2">Залізо</a>
-- Мікроконтролер [на базі ESP8266](https://www.mini-tech.com.ua/nodemcu-esp12-ch340) або [на базі ESP32](https://www.mini-tech.com.ua/node-esp32-cp2102)
-- [Адресна лед стрічка ws2812](https://www.mini-tech.com.ua/rgb-strip-ws2812b-30-led)
+- Мікроконтролер на базі ESP8266 або на базі ESP32
+- Адресна лед стрічка ws2812
 - Резистор 200-500 ом
  
 ## <a id="title3">Фішки</a>
